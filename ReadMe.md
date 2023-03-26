@@ -16,6 +16,7 @@ any lightweight C/C++ IDE in the likes of [RedPanda](https://github.com/royqh197
 - As stated dependency free.
 - Lives as an independent process.
 - Does not get detected by Windows Defener, now called Windows Security.
+- Generated log file is hidden to the user
 
 ## Cons
 - Only con is that *if* Windows Terminal is installed and is set with the option of *letting windows decide* to handle console processes. It forces out a console even if the script is hard coded not to.
